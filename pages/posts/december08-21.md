@@ -3,7 +3,7 @@ title: Creating a portfolio with Vercel
 date: 2021/12/18
 description: Creating a free and serverless website has never been easier
 tag: web development
-author: You
+author: Josh Duplisea
 ---
 
 # Creating a portfolio with Vercel
